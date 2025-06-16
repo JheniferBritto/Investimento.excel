@@ -1,1 +1,2 @@
 # Investimento.excel
+Neste projeto de Excel, desenvolvemos uma planilha de controle de investimentos que realiza o cálculo automático da porcentagem de rendimento com base nos valores aplicados e no retorno obtido. A ferramenta permite inserir os dados de cada investimento, visualizar a rentabilidade individual e total, além de auxiliar na tomada de decisões financeiras de forma prática e eficiente.
